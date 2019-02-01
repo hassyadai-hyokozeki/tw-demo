@@ -1,0 +1,46 @@
+[debug] [2018-11-08T05:12:51.943Z] ----------------------------------------------------------------------
+[debug] [2018-11-08T05:12:51.946Z] Command:       /home/laradock/.nvm/versions/node/v10.9.0/bin/node /home/laradock/.nvm/versions/node/v10.9.0/bin/firebase login
+[debug] [2018-11-08T05:12:51.947Z] CLI Version:   6.0.1
+[debug] [2018-11-08T05:12:51.947Z] Platform:      linux
+[debug] [2018-11-08T05:12:51.947Z] Node Version:  v10.9.0
+[debug] [2018-11-08T05:12:51.948Z] Time:          Thu Nov 08 2018 05:12:51 GMT+0000 (Coordinated Universal Time)
+[debug] [2018-11-08T05:12:51.948Z] ----------------------------------------------------------------------
+[debug] 
+[info] 
+[info] Visit this URL on any device to log in:
+[info] https://accounts.google.com/o/oauth2/auth?client_id=563584335869-fgrhgmd47bqnekij5i8b5pr03ho849e6.apps.googleusercontent.com&scope=email%20openid%20https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fcloudplatformprojects.readonly%20https%3A%2F%2Fwww.googleapis.com%2Fauth%2Ffirebase%20https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fcloud-platform&response_type=code&state=228353643&redirect_uri=http%3A%2F%2Flocalhost%3A9005
+[info] 
+[info] Waiting for authentication...
+[debug] [2018-11-08T05:12:56.185Z] Unable to open URL: Error: Exited with code 3
+    at ChildProcess.cp.once.code (/home/laradock/.nvm/versions/node/v10.9.0/lib/node_modules/firebase-tools/node_modules/opn/index.js:84:13)
+    at Object.onceWrapper (events.js:273:13)
+    at ChildProcess.emit (events.js:182:13)
+    at ChildProcess.EventEmitter.emit (domain.js:442:20)
+    at maybeClose (internal/child_process.js:961:16)
+    at Socket.stream.socket.on (internal/child_process.js:380:11)
+    at Socket.emit (events.js:182:13)
+    at Socket.EventEmitter.emit (domain.js:442:20)
+    at Pipe._handle.close (net.js:599:12)
+[debug] [2018-11-08T05:13:32.746Z] ----------------------------------------------------------------------
+[debug] [2018-11-08T05:13:32.748Z] Command:       /home/laradock/.nvm/versions/node/v10.9.0/bin/node /home/laradock/.nvm/versions/node/v10.9.0/bin/firebase login
+[debug] [2018-11-08T05:13:32.748Z] CLI Version:   6.0.1
+[debug] [2018-11-08T05:13:32.748Z] Platform:      linux
+[debug] [2018-11-08T05:13:32.748Z] Node Version:  v10.9.0
+[debug] [2018-11-08T05:13:32.749Z] Time:          Thu Nov 08 2018 05:13:32 GMT+0000 (Coordinated Universal Time)
+[debug] [2018-11-08T05:13:32.749Z] ----------------------------------------------------------------------
+[debug] 
+[info] 
+[info] Visit this URL on any device to log in:
+[info] https://accounts.google.com/o/oauth2/auth?client_id=563584335869-fgrhgmd47bqnekij5i8b5pr03ho849e6.apps.googleusercontent.com&scope=email%20openid%20https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fcloudplatformprojects.readonly%20https%3A%2F%2Fwww.googleapis.com%2Fauth%2Ffirebase%20https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fcloud-platform&response_type=code&state=902373554&redirect_uri=http%3A%2F%2Flocalhost%3A9005
+[info] 
+[info] Waiting for authentication...
+[debug] [2018-11-08T05:13:40.007Z] Unable to open URL: Error: Exited with code 3
+    at ChildProcess.cp.once.code (/home/laradock/.nvm/versions/node/v10.9.0/lib/node_modules/firebase-tools/node_modules/opn/index.js:84:13)
+    at Object.onceWrapper (events.js:273:13)
+    at ChildProcess.emit (events.js:182:13)
+    at ChildProcess.EventEmitter.emit (domain.js:442:20)
+    at maybeClose (internal/child_process.js:961:16)
+    at Socket.stream.socket.on (internal/child_process.js:380:11)
+    at Socket.emit (events.js:182:13)
+    at Socket.EventEmitter.emit (domain.js:442:20)
+    at Pipe._handle.close (net.js:599:12)
